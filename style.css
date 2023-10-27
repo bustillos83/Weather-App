@@ -7,10 +7,13 @@
 body{
     background: #222;
 }
-#img{
+#img1{
     
     width: 50px;
     
+}
+#img2{
+    width: 50%;
 }
 .card{
     width: 90%;
