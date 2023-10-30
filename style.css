@@ -72,10 +72,32 @@ body{
     margin-top: -10px;
 }
 
-#wind{
+/* #wind{
 
     width: 30%;
 }
 #huminity{
     width: 30%;
+} */
+
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    margin-top: 50px;
+}
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.col img{
+    width: 40px;
+    margin-right: 10px;
+}
+.huminity, .wind{
+    font-size:28px;
+    margin-top: -6px;
 }
